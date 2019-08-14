@@ -1,0 +1,52 @@
+html {
+    width: 100%;
+}
+
+#main {
+    background-color: rgba(4, 3, 10, 0.603);
+}
+
+#heading {
+    background-color: rgba(0, 0, 0, 0.514);
+    color:red;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Black Ops One', cursive;
+    padding-bottom: 40px;
+}
+#questionaire{
+    color:white;
+}
+.background{
+    background-image: url("./../images/marvel1.jpg")
+}
+
+.background2 {
+    background-image: url("./../images/marvel5.jpg");
+    background-position: center;
+}
+
+#survey{
+    float:right;
+    color:red;
+    background-color: rgba(245, 240, 240, 0.151);
+}
+
+h1, h3, h4 {
+    text-align: center;
+}
+
+#modality {
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+.jumbotron{
+    background-color: black;
+    color:white;
+}
+.question{
+    font-family: 'Yellowtail', cursive;
+    font-size: 40px;
+}
