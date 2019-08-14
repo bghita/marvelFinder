@@ -28,7 +28,7 @@ html {
 
 #survey{
     float:right;
-    color:red;
+    color:rgb(219, 140, 21);
     background-color: rgba(245, 240, 240, 0.151);
 }
 
@@ -44,7 +44,7 @@ h1, h3, h4 {
 }
 .jumbotron{
     background-color: black;
-    color:white;
+    color:rgba(255, 255, 255, 0.801);
 }
 .question{
     font-family: 'Yellowtail', cursive;

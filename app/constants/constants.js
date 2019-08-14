@@ -6,7 +6,7 @@ exports.profiles = [
     },
     {
         name: "Superman",
-        photo: "",
+        photo: "../../assets/images/super.jpg",
         scores: [2, 2, 1, 4]
     },
     {
