@@ -20,7 +20,7 @@
   "homepage": "https://github.com/toomusa/FriendFinder#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.1",
     "path": "^0.12.7"
